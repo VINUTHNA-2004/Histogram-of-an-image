@@ -79,13 +79,13 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Histogram-of-an-image/blob/main/v%20-11.png?raw=true)
 ### Histogram of Grayscale Image and any channel of Color Image
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Histogram-of-an-image/blob/main/v2-1.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Histogram-of-an-image/blob/main/v2-2.png?raw=true)
 
 ### Histogram Equalization of Grayscale Image
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Histogram-of-an-image/blob/main/v%203.png?raw=true)
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
